@@ -13,6 +13,7 @@ Conversion et ajouts :
 
 - [Trace au format GPX](PRC-2023-145.gpx)
 - [Tableau de marche repris de 2022, corrigé manuellement](tableau-marche-2023/)
+- [Récapitulatif des secteurs pavés à coller sur la potence](tableau-marche-2023/potence.pdf)
 - [Parcours sur Strava](https://www.strava.com/routes/3072476353458568258)
 - [Parcours sur Veloviewer](https://veloviewer.com/routes/3072476353458568258/embed2)
 
